@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\My Works\DovizOfisi\bin\Debug\DovizOfisi.exe.config
+C:\Users\pc\Desktop\My Works\DovizOfisi\bin\Debug\DovizOfisi.exe
+C:\Users\pc\Desktop\My Works\DovizOfisi\bin\Debug\DovizOfisi.pdb
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.Form1.resources
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.Properties.Resources.resources
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.exe
+C:\Users\pc\Desktop\My Works\DovizOfisi\obj\Debug\DovizOfisi.pdb
